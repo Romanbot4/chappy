@@ -11,7 +11,7 @@ Welcome to the **Chappy Food Delivery** project! This repository contains a stat
 - **Responsive Design**: The landing page adapts to various screen sizes.
 - **Eye-Catching Visuals**: High-quality images and appealing layout.
 - **Call-to-Action Buttons**: Encourage users to explore the app.
-- **GitHub Page**: The live demo is hosted on <a href="https://www.google.com">here</a>.
+- **GitHub Page**: The live demo is hosted on <a href="https://romanbot4.github.io/chappy/">here</a>.
 
 ## Getting Started
 
