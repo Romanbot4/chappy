@@ -27,6 +27,8 @@ Welcome to the **Chappy Food Delivery** project! This repository contains a stat
    npm i
    
 3. Start the development server
+
+   ```bash
    npm run dev
 
 ## Contributing
